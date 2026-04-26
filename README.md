@@ -11,6 +11,15 @@ Projetos Desenvolvidos 100% com Claude Prompt *SIM*, apenas prompts no claude we
 > Aplicação melhorada da `OPS`, contendo funções bem distintas como, atribui uma tarefa ou anotação a um atendimento especifico, alem de ter o controle dinâmico como poder mover o chamado para o topo da fila com o próprio mouse. E subdivido por categorias, alem de determinar a ordem de atendimento pelo nivel de necessidade, sedno baixo ou critico como exemplo.
 
 
-`... Is Coming`
-  
+    Inventory - Inventario de itens tecnologicos.
+    
+> Projeto de controle de inventario usando node / express e banco mariadb local. Com conexão direta dentro do script js, com gerenciamento de API.
+> Iniciando o projeto:
+```git init -y```
+> Instalando as dependências:
+```npm install express mariadb cors```
+> Inicializando o projeto:
+```node inventario_api.js```
+
+Rodar direto no navegador: `http://localhost:3000` para abrir o Dashboard e poder manipular os dados.
 
